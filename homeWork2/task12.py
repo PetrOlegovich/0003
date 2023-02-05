@@ -21,3 +21,5 @@ for y in range(0, 1001):
 
 # s, p = int(input("Сумма чисел: ")), int(input("Произведение чисел: "))
 # print(*[",".join((str(x), str(y))) for y in range(0, 1001) for x in range(0, 1001) if x + y == s and x * y == p])
+
+# P.P.S третий семинар еще не смотрел. еще. 
